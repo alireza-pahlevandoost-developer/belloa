@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes anime{
+    to{
+        transform: translateX(-3000px);
+    }
+}
+@font-face {
+    font-family: oj;
+    src: url(../font/OFL.txt);
+}
